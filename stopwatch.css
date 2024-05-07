@@ -1,0 +1,36 @@
+body {
+  font-family: Arial;
+  background-color: rgb(46, 46, 46);
+  color: white;
+}
+
+p {
+  font-size: 50px;
+  padding-left: 85px;
+}
+
+button {
+  font-family: Arial;
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+  font-size: 25px;
+  border: none;
+  cursor: pointer;
+  margin: 10px;
+}
+
+.start-button {
+  background-color: rgb(128, 255, 0);
+  color: white;
+}
+
+.stop-button {
+  background-color: rgb(255, 0, 0);
+  color: white;
+}
+
+.reset-button {
+  background-color: rgb(252, 226, 5);
+  color: white;
+}
